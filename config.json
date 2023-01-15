@@ -1,0 +1,6 @@
+  {
+    "host": "localhost",
+    "database": "northwind_traders",
+    "user": "postgres",
+    "password": "656958"
+  }
